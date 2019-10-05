@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
-public class SecondPage extends AppCompatActivity {
+public class secondPage extends AppCompatActivity {
     EditText subjects, comments;
 
     @Override
